@@ -1,1 +1,6 @@
 .venv/
+archive/
+EnglishFnt/
+output/
+output_words
+testing/
